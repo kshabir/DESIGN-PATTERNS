@@ -1,6 +1,8 @@
-// Here the objective is to add or extend one child in only one family (Lahore).
+/*
+Here the objective is to add or extend one child in only one family (Lahore).
 NOTE: The abstract methods needs implementations in both families. Which is not good.
 A Fix: Give your own implementation in abstract class and not make it pure virtual. Then you are free to implement/not implement in the derived classes.
+*/
 
 // Abstact Factory Method
 #include <iostream>
